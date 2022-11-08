@@ -17,6 +17,7 @@ public class Mobile {
 	private String colour;
 	private String model;
 	private int hsn;
+	private int github;
 	
 	public int getId() {
 		return id;
@@ -55,5 +56,4 @@ public class Mobile {
 		this.hsn = hsn;
 	}
 	
-
 }
